@@ -1,8 +1,9 @@
+package co.com.bytebank.test;
 
 public class TestGerente {
 
 	public static void main(String[] args) {
-		Gerente gerente = new Gerente();
+		co.com.bytebank.modelo.Gerente gerente = new co.com.bytebank.modelo.Gerente();
 		//gerente.setSalario(1000);
 		
 		//Funcionario gerente = new Funcionario();
