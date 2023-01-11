@@ -1,7 +1,4 @@
-package co.com.bytebank.modelo.cliente;
-
-import co.com.bytebank.modelo.Autenticable;
-import co.com.bytebank.modelo.AutenticacionUtil;
+package co.com.bytebank.modelo;
 
 public class Cliente implements Autenticable {
 
